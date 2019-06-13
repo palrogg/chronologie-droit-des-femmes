@@ -1,0 +1,15 @@
+{
+	"title": "L’évolution des droits des femmes en Suisse",
+	"description": "Les femmes n’ont obtenu l’autorité parentale qu’en 1978, tandis que le viol conjugal peut être poursuivi sur plainte depuis 1992. Retour en 24 étapes sur les acquis en matière d’égalité de genre",
+	"authors": "Céline Zünd",
+	"imgSocial": "social.jpg",
+
+	"navBarStyle": "black",
+	"navBarOffset": "0",
+	"navBarLocked": false,
+
+	"partner": {
+		"logo": "img/empty.png",
+		"link": "https://www.letemps.ch/"
+	}
+}
