@@ -70,3 +70,5 @@
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
     border-bottom-width: 3px; }
+  .timeline div:last-of-type {
+    border-bottom-width: 3px; }
